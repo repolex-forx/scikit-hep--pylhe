@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/pylhe/commit/4d347b912b9dc9d8c47697330822e3e8c92ef743",
       "git:hexsha": "4d347b912b9dc9d8c47697330822e3e8c92ef743",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/pylhe/commit/0da3d807c857cc9ae6a7d329f1cbaf3b483b95a8",
